@@ -1,4 +1,5 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0TbwNDhdOWU" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+![ONLY_BUILT_4_CUBAN_LINX](https://images.squarespace-cdn.com/content/v1/5a4583f1a8b2b077ad949ef7/1539912768098-8SX8VZ1VOS0DFKSG9H16/only+side+2.jpg?format=1500w)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/0TbwNDhdOWU" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 ![AMON_TOBIN_SOLID_STEEL](https://ninjatune.net/images/releases/solid-steel-presents-amon-tobin-main.jpg)
 ![AMON_TOBIN##PERMUTATION##](https://f4.bcbits.com/img/a1983715436_10.jpg)
 [DOWNLOAD_AMON_TOBIN_PERMUTATION_FROM_BANDCAMP](https://music.amontobin.com/album/permutation)
